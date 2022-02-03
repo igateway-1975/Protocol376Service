@@ -1,0 +1,13 @@
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\bin\Release\TBGatewayInstaller.exe.config
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\bin\Release\TBGatewayInstaller.exe
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\bin\Release\TBGatewayInstaller.pdb
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\obj\Release\ServiceInstaller.csproj.GenerateResource.cache
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\obj\Release\ServiceInstaller.csproj.CoreCompileInputs.cache
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\ServiceInstaller.exe.config
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\ServiceInstaller.exe
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\ServiceInstaller.pdb
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\obj\Release\ServiceInstaller.ServiceInstaller.resources
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\obj\Release\ServiceInstaller.Properties.Resources.resources
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\obj\Release\ServiceInstaller.exe
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\obj\Release\ServiceInstaller.pdb
+D:\Develop\驱动\国网376\Protocol376Service\ServiceInstaller\obj\Release\ServiceInstaller.csproj.AssemblyReference.cache

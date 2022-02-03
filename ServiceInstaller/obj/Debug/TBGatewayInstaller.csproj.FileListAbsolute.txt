@@ -1,0 +1,12 @@
+D:\Develop\TBGateWay\TBGatewayInstaller\bin\Debug\TBGatewayInstaller.exe.config
+D:\Develop\TBGateWay\TBGatewayInstaller\bin\Debug\TBGatewayInstaller.exe
+D:\Develop\TBGateWay\TBGatewayInstaller\bin\Debug\TBGatewayInstaller.pdb
+D:\Develop\TBGateWay\TBGateWay\bin\Debug\TBGatewayInstaller.exe.config
+D:\Develop\TBGateWay\TBGateWay\bin\Debug\TBGatewayInstaller.exe
+D:\Develop\TBGateWay\TBGateWay\bin\Debug\TBGatewayInstaller.pdb
+D:\Develop\TBGateWay\TBGatewayInstaller\obj\Debug\TBGatewayInstaller.ServiceInstaller.resources
+D:\Develop\TBGateWay\TBGatewayInstaller\obj\Debug\TBGatewayInstaller.Properties.Resources.resources
+D:\Develop\TBGateWay\TBGatewayInstaller\obj\Debug\TBGatewayInstaller.csproj.GenerateResource.cache
+D:\Develop\TBGateWay\TBGatewayInstaller\obj\Debug\TBGatewayInstaller.csproj.CoreCompileInputs.cache
+D:\Develop\TBGateWay\TBGatewayInstaller\obj\Debug\TBGatewayInstaller.exe
+D:\Develop\TBGateWay\TBGatewayInstaller\obj\Debug\TBGatewayInstaller.pdb

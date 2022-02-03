@@ -1,0 +1,14 @@
+﻿正在安装程序集“D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.exe”。
+受影响的参数是:
+   assemblypath = D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.exe
+   logfile = D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.InstallLog
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.exe 程序集中应该可以找到“Yes”特性。
+查看日志文件的内容以获得 D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.exe 程序集的进度。
+该文件位于 D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.InstallLog。
+正在提交程序集“D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.InstallLog
+   assemblypath = D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Release\Protocol376ToModbusService.exe 程序集中应该可以找到“Yes”特性。
+没有安装程序，因此移除 InstallState 文件。

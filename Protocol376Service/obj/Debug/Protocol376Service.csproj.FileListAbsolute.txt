@@ -1,0 +1,17 @@
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Protocol376Service.exe.config
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Protocol376Service.exe
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Protocol376Service.pdb
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Common.Logging.Core.dll
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Common.Logging.dll
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\log4net.dll
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Mina.NET.dll
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Common.Logging.pdb
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Common.Logging.xml
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Common.Logging.Core.pdb
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Common.Logging.Core.xml
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\log4net.xml
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\bin\Debug\Mina.NET.xml
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\obj\Debug\Protocol376Service.csproj.CoreCompileInputs.cache
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\obj\Debug\Protocol376Service.csproj.CopyComplete
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\obj\Debug\Protocol376Service.exe
+D:\Develop\驱动\国网376\Protocol376Service\Protocol376Service\obj\Debug\Protocol376Service.pdb

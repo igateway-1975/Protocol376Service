@@ -1,0 +1,6 @@
+2022-01-21 11:31:41,557,Protocol376ToModbusService service starting...
+2022-01-21 11:31:41,643,request->channel:1,addr:001,meterid:001,concentrator:21020056,point:0001
+2022-01-21 11:31:46,608,Protocol376ToModbusService service started.
+2022-01-21 11:31:48,648,request->channel:1,addr:002,meterid:002,concentrator:21020056,point:0002
+2022-01-21 11:31:49,875,Protocol376ToModbusService service stoping...
+2022-01-21 11:31:49,996,Protocol376ToModbusService service stoped.
