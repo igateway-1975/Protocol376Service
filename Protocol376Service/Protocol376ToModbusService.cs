@@ -155,6 +155,10 @@ namespace Protocol376Service
 
         }
 
+        /// <summary>
+        /// 读取老程序的XML配置文件
+        /// </summary>
+        /// <param name="fileName"></param>
         static void ReadXMLConfig(string fileName)
         {
             try
@@ -203,6 +207,11 @@ namespace Protocol376Service
                 }
             }
         }
+
+        /// <summary>
+        /// 把配置文件写入CSV文件
+        /// </summary>
+        /// <param name="fileName"></param>
 
         static void WriteCSVConfig(string fileName)
         {
